@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OCRMSupportSDK",
-            url: "https://github.com/omnicard-tech/ocrm-support-sdk-spm/releases/download/v1.0.32/OCRMSupportSDK.xcframework.zip",
-            checksum: "98957c25478754bd7ca3ab6da01c09fb2e4f9fc70f3f02a4ccf735b82d026336"
+            url: "https://github.com/omnicard-tech/ocrm-support-sdk-spm/releases/download/v1.0.33/OCRMSupportSDK.xcframework.zip",
+            checksum: "0a83e3792bc57e4bfd13dfc9909f24acf43dbe07f87db3b3a10dea6361163f82"
         )
     ]
 )
